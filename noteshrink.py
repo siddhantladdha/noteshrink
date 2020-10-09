@@ -449,7 +449,8 @@ the background color to pure white.
 
     if options.white_bg:
         palette = palette.copy()
-        palette[0] = (255, 255, 255)
+        # just changing the background color as per requirement.
+        palette[0] = (227, 227, 227)
 
     output_img = Image.fromarray(labels, 'P')
     output_img.putpalette(palette.flatten())

@@ -1,6 +1,11 @@
 noteshrink
 ==========
 
+Changes in Forked Version:
+
+1. Made the background color #e3e3e3.
+2. Will accept pull requests for adding an option to make custom background color.
+
 Convert scans of handwritten notes to beautiful, compact PDFs -- see full writeup at <https://mzucker.github.io/2016/09/20/noteshrink.html>
 
 ## Requirements
